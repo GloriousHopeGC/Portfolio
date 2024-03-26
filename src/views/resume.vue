@@ -150,5 +150,36 @@
     list-style-type: disc;
     padding-left: 20px;
   }
+header {
+  background-color: #000; /* Black background color */
+  padding: 20px; /* Increase padding for spacing */
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.background-img {
+  width: 612px;
+  height: 700px;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 30px; /* Increase margin for spacing */
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff; /* Text color */
+  font-weight: bold; /* Make text bold */
+}
+
+nav ul li a:hover {
+  color: #ccc; /* Hover color */
+}
   </style>
   
