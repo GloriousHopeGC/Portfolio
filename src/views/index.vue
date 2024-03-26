@@ -139,7 +139,7 @@
           <div class="card">
             <img src="/pictures/AGCOWC CIRCULAR.png" alt="Work Sample 1" class="work-sample-img" />
             <div class="card-content">
-              <h2>AGOWC CHURCH WEBSITE</h2>
+              <h2>AGCOWC CHURCH WEBSITE</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
               <a href="https://github.com/GloriousHopeGC/AGCOWC-PROJECT-v1" target="_blank" class="btn">View Work</a>
             </div>
