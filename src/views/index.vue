@@ -9,7 +9,7 @@
           <li><a href="#worksamples">My work</a></li>
           <li><a href="#achievements">Achievements</a></li>
           <li><a href="#contact">Contact Me</a></li>
-           <li><router-link to="/resume" target="_blank">Resume</router-link></li>
+          <li><router-link to="/resume">Resume</router-link></li>
         </ul>
       </nav>
     </header>
