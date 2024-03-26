@@ -14,7 +14,7 @@
       </div>
     </div>
     <div class="right-section">
-      <img src="/pictures/your-picture.jpg" alt="Your Picture" class="profile-image" />
+      <img src="/pictures/GHGC.jpg" alt="Your Picture" class="profile-image" />
     </div>
   </div>
 </template>
