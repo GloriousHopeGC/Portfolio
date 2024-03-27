@@ -67,7 +67,7 @@
   export default {
     data() {
       return {
-        fullName: "Glorious Hope Cuyos",
+        fullName: "Glorious Hope G. Cuyos",
         profession: "Bachelor of Science and Information Technology",
         email: "cuyosglorious@gmail.com",
         phone: "09662379503",
@@ -76,23 +76,21 @@
           {Primary: "Primary", school: "Babag I Elementary School", year: "2014-2015"}
         ],
         secondaryeducation:[
-          {Secondary: "Secondary", school: "Babag I Elementary School", year: "2018-2019"}
+          {Secondary: "Secondary", school: "Babag I National High School", year: "2018-2019"}
         ],
         territiaryeducation:[
           {Tertiary: "Tertiary", school: "Cordova Public College", year: "2020-present"}
         ],
         achievements: [
-          "2x Champion in Battle of the Band Competition in ACLC WEEK AND INTRAMURALS",
-          "Won first place in BATTLE OF THE BAND ACLC INTRAMURALS",
-          "Won first place in BATTLE OF THE BAND ACLC WEEK"
+          "2x Champion in Battle of the Band Competition in ACLC WEEK AND INTRAMURALS"
         ],
         skills:[
-            "Good at Web Designing",
-            "Good At Listening skills",
-            "Good In making web-design using Html & bootstrap",
-            "Better in Music Industry",
-            "Hardworking man",
-            "Time management"
+            "Web Designing using Photoshop 7 Ms excel & PowerPoint Presentation",
+            "Web-design using Html & bootstrap",
+            "Performer",
+            "Hardworking",
+            "Time management",
+            "Active Listening"
         ],
       };
     }
