@@ -3,6 +3,7 @@
     <header>
       <nav>
         <ul>
+          <li class="mobile-only"><router-link to="/resume"><img src="/public/favicon.ico" alt="Background Image" class="icon" />&nbsp; Resume</router-link></li>
           <li><a href="#home">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#services">Services</a></li>
@@ -608,5 +609,14 @@ button[type="submit"]:hover {
     display: none; /* Hide the list items */
   }
 }
+.mobile-only {
+    display: none;
+  }
 
+  /* Show the image for screen sizes typical of mobile devices */
+  @media only screen and (max-width: 768px) {
+    .mobile-only {
+      display: block;
+    }
+  }
 </style>
