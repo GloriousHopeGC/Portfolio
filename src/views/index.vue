@@ -46,10 +46,7 @@
           <div class="motto">
             <p>"Never Give up no matter what the situation is"</p>
             <br>
-            <p>"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello My name Is Glorious Hope Guillen Cuyos. 21 years of age. Becoming 22 this 25th day of July 2024. 
-              I take the course of BSIT- Bachelor of Science And Information Tchnology. My hobbies are Playing Intruments, 
-              Drumset is my favorate to play. I hate coding when it runs error. but i love coding when it found 0 errors and lastly i love to play online and offline games such as Minecraft,
-               Nba Basketball and etc."</p>
+            <p>"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, My name is Glorious Hope Guillen Cuyos. 21 years of age. Turning 22 this 25th day of July 2024. I am taking a  course of BSIT- Bachelor of Science and Information Technology. My hobbies are Playing Instruments, but  Drumset is my favorite to play. I hate coding when it runs error, but I love coding when it found 0 errors and lastly, I love playing online and offline games such as Minecraft, Nba Basketball and etc."</p>
           </div>
         </div>
       </div>
