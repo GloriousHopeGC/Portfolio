@@ -71,7 +71,7 @@
         profession: "Bachelor of Science and Information Technology",
         email: "cuyosglorious@gmail.com",
         phone: "09662379503",
-        address: "Purok Shooting star Babag II Lapu-Lapu City",
+        address: "Purok Shooting Star Babag II Lapu-Lapu City",
         primaryeducation: [
           {Primary: "Primary", school: "Babag I Elementary School", year: "2014-2015"}
         ],
