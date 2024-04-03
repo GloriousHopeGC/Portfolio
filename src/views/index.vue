@@ -63,7 +63,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-display" viewBox="0 0 16 16"> <path d="M0 4s0-2 2-2h12s2 0 2 2v6s0 2-2 2h-4q0 1 .25 1.5H11a.5.5 0 0 1 0 1H5a.5.5 0 0 1 0-1h.75Q6 13 6 12H2s-2 0-2-2zm1.398-.855a.76.76 0 0 0-.254.302A1.5 1.5 0 0 0 1 4.01V10c0 .325.078.502.145.602q.105.156.302.254a1.5 1.5 0 0 0 .538.143L2.01 11H14c.325 0 .502-.078.602-.145a.76.76 0 0 0 .254-.302 1.5 1.5 0 0 0 .143-.538L15 9.99V4c0-.325-.078-.502-.145-.602a.76.76 0 0 0-.302-.254A1.5 1.5 0 0 0 13.99 3H2c-.325 0-.502.078-.602.145"/></svg>
             <div class="card-content">
               <h2>Computer System Servicing</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>I do computer system servicing. Installation of windows 8 and 10. Computer Repair and reformat at budget price. Installation of drivers like Microsoft word Office, Power point and Excel. </p>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@
               <path d="M12 13c0 1.105-1.12 2-2.5 2S7 14.105 7 13s1.12-2 2.5-2 2.5.895 2.5 2"/><path fill-rule="evenodd" d="M12 3v10h-1V3z"/><path d="M11 2.82a1 1 0 0 1 .804-.98l3-.6A1 1 0 0 1 16 2.22V4l-5 1z"/> <path fill-rule="evenodd" d="M0 11.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5m0-4A.5.5 0 0 1 .5 7H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5m0-4A.5.5 0 0 1 .5 3H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5"/></svg>
             <div class="card-content">
               <h2>Gigs</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>I perform Gigs for wedding, Together with my brother at a low price, I perform Electric Drums, Electric Guitar, Bass or Piano. I can perform any of four instruments.</p>
             </div>
           </div>
         </div>
@@ -87,7 +87,7 @@
               <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m7.5-6.923c-.67.204-1.335.82-1.887 1.855A8 8 0 0 0 5.145 4H7.5zM4.09 4a9.3 9.3 0 0 1 .64-1.539 7 7 0 0 1 .597-.933A7.03 7.03 0 0 0 2.255 4zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a7 7 0 0 0-.656 2.5zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5zM8.5 5v2.5h2.99a12.5 12.5 0 0 0-.337-2.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5zM5.145 12q.208.58.468 1.068c.552 1.035 1.218 1.65 1.887 1.855V12zm.182 2.472a7 7 0 0 1-.597-.933A9.3 9.3 0 0 1 4.09 12H2.255a7 7 0 0 0 3.072 2.472M3.82 11a13.7 13.7 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5zm6.853 3.472A7 7 0 0 0 13.745 12H11.91a9.3 9.3 0 0 1-.64 1.539 7 7 0 0 1-.597.933M8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855q.26-.487.468-1.068zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.7 13.7 0 0 1-.312 2.5m2.802-3.5a7 7 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7 7 0 0 0-3.072-2.472c.218.284.418.598.597.933M10.855 4a8 8 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4z"/></svg>
             <div class="card-content">
               <h2>Web Development</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>Can make a website for companies, for business site or even personal blog. At lowest guarantee. With the help of my Team we can develop a website for you. </p>
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/><path d="m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05"/></svg>
             <div class="card-content">
               <h2>100% Legitimate</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>100% legit and guarantee</p>
             </div>
           </div>
         </div>
@@ -111,7 +111,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16"><path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"/><path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0"/></svg>
             <div class="card-content">
               <h2>Time Management</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>100% can do it on time accurately when necessary. </p>
             </div>
           </div>
         </div>
@@ -122,7 +122,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-calendar-check" viewBox="0 0 16 16"><path d="M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0"/><path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4z"/></svg>
             <div class="card-content">
               <h2>On Time</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>Always on time and not late in servicing  </p>
             </div>
           </div>
         </div>
@@ -139,7 +139,7 @@
             <img src="/pictures/AGCOWC CIRCULAR.png" alt="Work Sample 1" class="work-sample-img" />
             <div class="card-content">
               <h2>AGCOWC CHURCH WEBSITE</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>I develop an integrative website named AGCOWC Church Website with a purpose to keep members always updated on the events that is happening in the church. It keeps members on track.</p>
               <a href="https://github.com/GloriousHopeGC/AGCOWC-PROJECT-v1" target="_blank" class="btn">View Work</a>
             </div>
           </div>
@@ -151,7 +151,7 @@
             <img src="/pictures/fcfs.png" alt="Work Sample 1" class="work-sample-img" />
             <div class="card-content">
               <h2>FCFS program JS language</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>Last semester We built a scheduling algorithm using naitive javascript.</p>
               <a href="https://github.com/GloriousHopeGC/PROJECTS/blob/main/FCFC.html" target="_blank" class="btn">View Work</a>
             </div>
           </div>
@@ -162,7 +162,7 @@
             <img src="/pictures/api.png" alt="Work Sample 1" class="work-sample-img" />
             <div class="card-content">
               <h2>Log-in Api</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>Log in API </p>
               <a href="https://github.com/GloriousHopeGC/3rd-Yr-2nd-Sem/tree/main/HCI2-API%20LOGIN" target="_blank" class="btn">View Work</a>
             </div>
           </div>
@@ -180,7 +180,7 @@
             <img src="/pictures/mq1.webp" alt="Work Sample 1" class="work-sample-img" />
             <div class="card-content">
               <h2>BATTLE OF THE BAND CHAMPION In Intramurals</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>DuringIntramurals. I joined the battle of the band contest which named White Scorpions Which we are the champion.</p>
             </div>
           </div>
         </div>
@@ -191,7 +191,7 @@
             <img src="/pictures/mq1.webp" alt="Work Sample 1" class="work-sample-img" />
             <div class="card-content">
               <h2>Battle Of The Band Champion in ACLC week</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae recusandae facere ut quidem praesentium alias fuga repellat obcaecati ad cum provident quisquam doloremque possimus excepturi facilis, incidunt ratione magni voluptas?</p>
+              <p>During our ACLC week. I joined the battle of the band contest representative in the house of Giallio where Fought hard until The house of Giallio won it champion.</p>
             </div>
           </div>
         </div>
